@@ -125,6 +125,8 @@ if ($data['status'] === 'success') {
 
 ?>
 ```
+## SDKs & Plugins
+1. HimaPay Woo-Commerce Checkout Plugin. [Download](https://app.himapay.co.ke/public/assets/himapay-woocommerce.zip)
 
 ## Authors
 
